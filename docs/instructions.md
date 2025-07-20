@@ -20,9 +20,17 @@
 
 You are required to design and create a web application that satisfies a particular need or problem for a person or group of people. The need / problem should be a genuine and authentic one.
 
-You will be assessed on how skilfully and effectively you design, create, and test your system over the course of a number of 'sprints'.
+You will be assessed on how skilfully and effectively you design, create, and test your system over the course of a number of 'sprints'
 
 *Note: If you cannot identify a need / problem, [this document](ideas.md) has some that might help you.*
+
+## Timeline
+
+- Week 1 - Project idea clarification, development and research
+- Weeks 2/3 - Sprint 1: Project design and prototype, using DrawSQL and Figma
+- Weeks 4/5 - Sprint 2: Working MVP (minimum viable product), using Flask template
+- Weeks 6/7 - Sprint 3: System refinement
+- Week 8 - Final testing and evaluation
 
 
 ## Assessment Conditions
