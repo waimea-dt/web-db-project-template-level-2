@@ -23,8 +23,9 @@ To support setting up and developing with the Flask server, add the following ex
 
 You should also have the following (just to n=make life better):
 
-- **Code Spell Checker** (because speeling is hard!)
+- **GitHub Markdown Preview extension pack** (enables Markdown features and preview so that they match those on GitHub)
 - **Error Lens** (places error messages inline, next to code)
+- **Code Spell Checker** (because speeling is hard!)
 
 
 ### Create the Virtual Environment
