@@ -24,14 +24,24 @@ You will be assessed on how skilfully and effectively you design, create, and te
 
 *Note: If you cannot identify a need / problem, [this document](ideas.md) has some that might help you.*
 
+---
+
 ## Timeline
 
-- Week 1 - Project idea clarification, development and research
-- Weeks 2/3 - Sprint 1: Project design and prototype, using DrawSQL and Figma
-- Weeks 4/5 - Sprint 2: Working MVP (minimum viable product), using Flask template
-- Weeks 6/7 - Sprint 3: System refinement
-- Week 8 - Final testing and evaluation
+| Weeks | Phase                                                                       |
+| ----- | --------------------------------------------------------------------------- |
+| 1     | Project idea clarification, development and research                        |
+| 2-3   | **Sprint 1**: Project design and working prototype, using DrawSQL and Figma |
+| 4-6   | **Sprint 2**: Working MVP (minimum viable product), using Flask template    |
+| 7-9   | **Sprint 3**: System refinement and completion                              |
+| 10    | Final testing and evaluation                                                |
 
+A 'sprint' is a set period of time during which specific work has to be completed and made ready for review. In this project, the work for each sprint has been defined for you in the table above.
+
+During each sprint you will develop your ideas, create suitable outcomes, present these to your end-user(s) so they can try them out, collect feedback / test data, and improve your outcomes to fix any issues.
+
+
+---
 
 ## Assessment Conditions
 
@@ -47,6 +57,8 @@ This is an individual assessment activity: Beyond the starter template, all the 
 
 *You will be asked to explain the workings of any/all of your code to assess whether you wrote and understand the code. Also, your git commits will be examined to check how your code progresses.*
 
+
+---
 
 ## Achievement Criteria for the Database
 
@@ -116,12 +128,18 @@ Use advanced programming techniques to develop a refined computer program means 
 4. You need to **comprehensively test** and **debug** your program to ensure that as well as valid / boundary data, it also copes wit **invalid** data (this needs to be documented)
 
 
+---
+
 ## What You Need to Hand In
 
 At the end of this project you will need to submit the following:
 
-1. **System Source Code** - a copy of your [program source](../app) file(s)
+1. **The URL of your GitHub repo** which should contain:
+   - **Project Description** - in the [README](../README.md) document
+   - **System Source Code** - in the [app](../app) folder
+   - **Supporting Documentation** - in the [docs](../docs/) folder
 
-2. **Live Site** - your site must be hosted externally and live
+2. **A zipped copy** of the repo above
 
-3. **Evidence of Testing** - [planning](test-plan.md) and [evidence](test-results.md) template have been provided for you to use for this
+3. **The URL of your live site** - your site must be hosted externally and live
+
