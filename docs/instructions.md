@@ -192,7 +192,7 @@ Use advanced techniques to develop a digital media outcome means that, taking in
 
 Use advanced techniques to develop an informed digital media outcome means **all the criteria for Achieved**, plus:
 
-1. You should use information from testing procedures to improve the quality of your database:
+1. You should use information from testing procedures to improve the quality of your web site:
    - [ ] Show **evidence of your testing**, particularly with end-users
    - [ ] Show the **improvements made** as a result
 
