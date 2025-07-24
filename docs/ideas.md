@@ -32,7 +32,7 @@ A suitable level of complexity for a Level 2 project might involve the following
 These are to get you *thinking* about the sort of areas you could be looking at, the people you could be talking to and the types of conversations you might be having so that you can identify a **genuine need / problem to solve**:
 
 ### Ordering
-- The need to track orders / clients (*ordering*)
+- The need to track orders / clients
 - The need to configure / customise a complex product / system / service
 
 ### Organisation

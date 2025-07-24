@@ -42,7 +42,7 @@ Replace this text with your project description and list the key features below
 
 ## Project Details
 
-This is a digital media and database project for **NCEA Level 2**, assessed against standards [91892](docs/as91892.pdf) and [91892](docs/as91892.pdf).
+This is a digital media and database project for **NCEA Level 2**, assessed against standards [91892](docs/as91892.pdf) and [91893](docs/as91892.pdf).
 
 The project is a web app that uses [Flask](https://flask.palletsprojects.com) for the server back-end, connecting to a SQLite database. The final deployment of the app is on [Render](https://render.com/), with the database hosted at [Turso](https://turso.tech/).
 
