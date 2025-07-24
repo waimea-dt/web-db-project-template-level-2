@@ -2,10 +2,11 @@
 
 ## Libraries and Services Required
 
-- [Flask](https://flask.palletsprojects.com)
-- [Jinja2](https://jinja.palletsprojects.com/templates/)
-- [PicoCSS](https://picocss.com/)
-- [Turso](https://turso.tech/)
+- [Flask](https://flask.palletsprojects.com) - Python web framework
+- [Jinja2](https://jinja.palletsprojects.com/templates/) - HTML templating
+- [PicoCSS](https://picocss.com/) - Base CSS stylesheet
+- [Turso](https://turso.tech/) - SQLite DB host
+- [Render](https://render.com/) - Web app hosting
 
 
 ---
