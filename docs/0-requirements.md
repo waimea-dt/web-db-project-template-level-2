@@ -14,8 +14,10 @@ The typical end-user would be a bike owner who wants to do their own bike mainte
 
 ## Proposed Solution
 
-A system that allows someone to track maintenance jobs for their bike:
-- Maintenance tasks can be defined and added
+A system that allows someone to track maintenance jobs for their bikes.
+
+- Bikes can be added to the system
+- Maintenance tasks can be defined for the bikes and added to the system
 - Tasks can be one-offs or can be repeating ones
 - Tasks that have not yet been completed are clearly listed
 - Tasks can be marked as completed
@@ -41,15 +43,17 @@ I will need to ensure that each part of the system works as expected. This can b
 
 ## Usability
 
-Replace this text with a clear explanation of what the implication means.
+A system is usable if it is intuitive to use.
 
 ### Relevance to the System
 
-Replace this text with an explanation of why the implication is relevant to this particular project.
+It is important that this system is usable so that blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah.
 
 ### Impact / Considerations
 
-Replace this text with an explanation of what you will need to consider moving forward and how the project will be impacted by this implication.
+As I design this system I will keep in mind [Neilssen's Usability Heuristics](https://...). I will ensure that blah blah blah blah blah blah blah blah blah blah blah blah blah blah.
+
+When I am testing the system and/or getting end-user feedback, I will blah blah blah blah blah blah blah blah blah blah blah blah.
 
 
 

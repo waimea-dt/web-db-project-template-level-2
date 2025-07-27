@@ -2,14 +2,17 @@
 
 by Steve Copley
 
+![](docs/screenshots/yeti.jpg)
+
 
 ---
 
 ## Project Description
 
-This project covers the development of a system that allows someone to track maintenance jobs for their bike.
+This project covers the development of a system that allows someone to track maintenance jobs for their bikes.
 
-- Maintenance tasks can be defined and added
+- Bikes can be added to the system
+- Maintenance tasks can be defined for the bikes and added to the system
 - Tasks can be one-offs or can be repeating ones
 - Tasks that have not yet been completed are clearly listed
 - Tasks can be marked as completed
