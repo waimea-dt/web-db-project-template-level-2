@@ -90,11 +90,15 @@ This is the feedback I obtained:
 Based on the above feedback, I updated the UI design with some changes:
 
 - Task count for each bike
-- Task priority (this needs a database update too)
+- Task priority (this needed a database update too)
 
 This is the updated UI design:
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="400" height="650" src="https://embed.figma.com/proto/kRrbSRRIjFTfhtQneEzqoI/Bike-Maintenance-Design-V2?node-id=1-2&p=f&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2&embed-host=share" allowfullscreen></iframe>
+
+And this is the updated database with an 'important' field added to the tasks table:
+
+![DB v3](screenshots/db_v3.png)
 
 
 ### Further Testing
@@ -170,6 +174,8 @@ I will try to make this a user-choice when using the web app.
 The user who mentioned the dark mode liked the updated design.
 
 > The dark mode is a good improvement - Easier on my eyes!
+
+I think that the design does not need further refinement at this point.
 
 
 ---
